@@ -1,12 +1,3 @@
-var age = Lit("Quel est votre age");
-
-if ((+age) < 13) {
-    Affiche("Vous allez kiffer : Action Man");
-}
-else if ((+age) >= 13 && (+age) < 18) {
-    Affiche("Vous aimerez : Matrix");
-}
-else {
-    Affiche("BwwwwaaaaaaaaaAAAAAAAAAh : Evil Dead");
-}
-
+/* ici on va pouvoir tester des algos en JS */
+/* pour demander une valeur à l'utilisateur : var a = Lit("Mess") */
+/* pour afficher une valeur à l'écran : Affiche("Mess") */
